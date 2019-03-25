@@ -1,0 +1,9 @@
+*.bsp
+*.log
+*.vmx
+*.prt
+*.lin
+*.bz2
+*.lnk
+*bsp.backup
+
