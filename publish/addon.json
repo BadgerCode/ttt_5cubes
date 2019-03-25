@@ -1,0 +1,13 @@
+{
+    "title": "TTT 5 Cubes",
+    "description": "It's just 5 cubes",
+    "type": "map",
+    "tags": [
+        "fun",
+        "scenic"
+    ],
+    "ignore": [
+        ".git/*",
+        "README.md"
+    ]
+}
